@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677586737957",
+    "firebase_url": "https://chat-5a380.firebaseio.com",
+    "project_id": "chat-5a380",
+    "storage_bucket": "chat-5a380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677586737957:android:ac4b38455b207e6e",
+        "android_client_info": {
+          "package_name": "trindade.br.com.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677586737957-u7vabckmuu15qvta64sl8kc32hm3kmlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsH3PFNfiAV27ClUUBLteQGgCUJubPj8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677586737957-u7vabckmuu15qvta64sl8kc32hm3kmlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
